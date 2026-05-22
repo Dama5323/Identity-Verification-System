@@ -2,7 +2,6 @@
 
 ![Architecture Diagram](./KYC_VERIFICATION_ARCHITECTURE.png)
 
-> **AWS Certified Solutions Architect** – A production‑ready identity verification system with liveness detection, OCR, facial matching, and GDPR compliance.
 
 ---
 
